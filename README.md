@@ -1,4 +1,4 @@
-# React Meals Web Applicaion 
+# React Meals Web Application 
 
 ## Project Overview
 
@@ -16,12 +16,12 @@ This project is a React application created with **Vite**, featuring **Context A
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Mo5444237/Meals-ordering-app.git
+   git clone https://github.com/Mo5444237/meals-ordering-app.git
    ```
    
 2. **Go to the project directory:**
     ```sh
-    cd Meals-ordering-app
+    cd meals-ordering-app
     ```
     
 3. **Install dependencies**
